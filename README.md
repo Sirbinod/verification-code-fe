@@ -19,7 +19,7 @@ Currently, two official plugins are available:
 
 ### Installation
 
-1. Clone the repository: `https://github.com/Sirbinod/crypto-notifier-be.git`
+1. Clone the repository: `https://github.com/Sirbinod/verification-code-fe.git`
 2. Install dependencies: `npm install or yarn`
 3. Start the application: `npm dev or yarn dev`
 
