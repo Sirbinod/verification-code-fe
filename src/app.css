@@ -1,0 +1,30 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+
+.verification-input-wrap .vi__container{
+        height: 43.33px;
+}
+.verification-input-wrap .vi__container .vi__character {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 40.33px;
+    border: 1px solid #100249;
+    border-radius: 8px;
+    
+}
+
+.verification-input-wrap .vi__container .vi__character--filled {
+    color: #100249;
+}
+
+.verification-input-wrap .vi__container .vi__character--selected {
+    color: #100249;
+    outline: 2px solid #100249;;
+}
+
+.verification-error .vi__container .vi__character{
+border: 1px solid red;
+}
